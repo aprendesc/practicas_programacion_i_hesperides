@@ -1,14 +1,21 @@
-
-professor/
-
+# Material docente privado y entornos locales
+/profesor/
+/professor/
 .venv/
-
-__pycache__/
-
-.ipynb_checkpoints/
-
-resultado_local.txt
-
-calculos_local.py
-
 .editorial/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+resultado_local.txt
+calculos_local.py
+# Herramientas de preparación locales: no forman parte de la entrega
+/.githooks/
+/.github/
+/.claude/
+/.worktreelink
+/AGENTS.md
+/CLAUDE.md
+/context/
+/pyproject.toml
+/uv.lock
