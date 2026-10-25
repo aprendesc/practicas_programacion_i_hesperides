@@ -1,0 +1,14 @@
+
+professor/
+
+.venv/
+
+__pycache__/
+
+.ipynb_checkpoints/
+
+resultado_local.txt
+
+calculos_local.py
+
+.editorial/
